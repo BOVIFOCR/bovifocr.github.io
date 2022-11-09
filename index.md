@@ -3,28 +3,19 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+![](/assets/images/logos.png)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+# BOVIFOCR
+Ocular Biometrics, Face Liveness and OCR in official documents
 
-More specifically, the created site:
+This project has the main objective of improving Computer Vision algorithms for large-scale human face ocular biometric authentication and verification, face liveness detection and key information extraction in documents (in particular w.r.t. the Portuguese language).
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, just click "[use this template]"!
+## Team
+- David Menotti Gomes (associate professor at UFPR, project supervisor)
+- Bernardo Janko Goncalves Biesseck (PhD student)
+- Bruno Henrique Kamarowski de Carvalho (undergrad CS student)
+- Lucas Matheus Leite Wojcik (undergrad CS student)
+- Pedro Beber de Queiroz Vidal (undergrad CS student)
+- Raul Gomes Pimentel de Almeida (master's student)
 
 ----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate

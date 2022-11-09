@@ -4,5 +4,7 @@ theme: just-the-docs
 
 url: https://bovifocr.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+back_to_top: true
+back_to_top_text: "Back to top"
+
+color_scheme: "dark"
