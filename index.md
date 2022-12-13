@@ -9,7 +9,7 @@ nav_order: -999
 # BOVIFOCR
 Ocular Biometrics, Face Liveness and OCR in official documents
 
-This project has the main objective of improving Computer Vision algorithms for large-scale human face ocular biometric authentication and verification, face liveness detection and key information extraction in documents (in particular w.r.t. the Portuguese language).
+This project has the main objective of improving Computer Vision algorithms for large-scale human face ocular biometric authentication and verification, face liveness detection and key information extraction in documents (in particular w.r.t. the Portuguese language). It is a partnership between [Universidade Federal do Paraná (UFPR)](https://www.ufpr.br/portalufpr/) and [Unico](https://unico.io/).
 
 ## Team
 - David Menotti Gomes (associate professor at UFPR, project supervisor)
