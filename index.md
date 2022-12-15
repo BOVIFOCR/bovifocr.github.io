@@ -19,6 +19,8 @@ This project has the main objective of improving Computer Vision algorithms for 
 - Pedro Beber de Queiroz Vidal (undergrad CS student)
 - Raul Gomes Pimentel de Almeida (master's student)
 
+![](/assets/images/confra.png)
+
 ## Research Topics
 This project involves three lines of research: Face Anti-Spoofing, Ocular Biometrics and Key Information Extraction. They are briefly summarized below.
 
