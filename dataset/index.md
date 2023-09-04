@@ -4,11 +4,11 @@ layout: home
 ---
 
 🚧 página em construção
-# Programa Voluntariado Acadêmico
+# UFPR - Vivacidade - PVA
 Vetores de Multiplicação de Pesquisa
 Vivacidade Facial UFPR
 
-(cabeçalho)
+![](/assets/images/dataset3.png)
 
 Caros Alunos da comunidade acadêmica da UFPR,
 
@@ -27,16 +27,16 @@ Ficamos à disposição para maiores esclarecimentos. ( **EMAIL AQUI** )
 Cordialmente,
 - Bruno Henrique Kamarowski de Carvalho, Mestrando em Informática
 - Raul Gomes Pimentel de Almeida, Mestrando em Informática
+- Bernardo Janko Gonçalves Biesseck, Doutorando em Ciência da Computação
 - David Menotti, Professor Associado, Departamento de Informática
 
 ## Sobre o projeto de pesquisa
 Nós do VRI (Laboratório Visão, Robótica e Imagens) do Departamento de Informática (DInf) da Universidade Federal do Paraná (UFPR) desenvolvemos um aplicativo para smartphone para a criação de uma base de dados de vídeos de rosto que serão utilizadas para fins de pesquisa em biometria.
 
-O aplicativo foi desenvolvido pelo mestrando Bruno Henrique Kamarowski de Carvalho. O projeto é coordenado pelo Prof. David Menotti e foi aprovado pelo comitê de ética da UFPR.
+O aplicativo foi desenvolvido pelos mestrandos Bruno Henrique Kamarowski de Carvalho e Raul Gomes Pimentel de Almeida. O projeto é coordenado pelo Prof. David Menotti e foi aprovado pelo [comitê de ética da UFPR](http://www.saude.ufpr.br/portal/cometica/) (102 - UFPR - Setor de Ciências da Saúde da Universidade Federal do Paraná - SCS/UFPR)
 
 ![](/assets/images/dataset1.png)
 ![](/assets/images/dataset2.png)
-![](/assets/images/dataset3.png)
 
 Os vídeos coletados são armazenados em servidor da universidade e a identidade dos participantes não é associada aos dados coletados, zelando pela privacidade dos participantes.
 
