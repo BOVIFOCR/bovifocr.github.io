@@ -25,9 +25,9 @@ A participação na palestra não é obrigatória, temos uma vídeo-aula sobre a
 Ficamos à disposição para maiores esclarecimentos. ( **EMAIL AQUI** )
 
 Cordialmente,
-Bruno Henrique Kamarowski de Carvalho, Mestrando em Informática
-Raul Gomes Pimentel de Almeida, Mestrando em Informática
-David Menotti, Professor Associado, Departamento de Informática
+- Bruno Henrique Kamarowski de Carvalho, Mestrando em Informática
+- Raul Gomes Pimentel de Almeida, Mestrando em Informática
+- David Menotti, Professor Associado, Departamento de Informática
 
 ## Sobre o projeto de pesquisa
 Nós do VRI (Laboratório Visão, Robótica e Imagens) do Departamento de Informática (DInf) da Universidade Federal do Paraná (UFPR) desenvolvemos um aplicativo para smartphone para a criação de uma base de dados de vídeos de rosto que serão utilizadas para fins de pesquisa em biometria.
