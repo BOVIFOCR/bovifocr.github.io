@@ -42,5 +42,9 @@ Os vídeos coletados são armazenados em servidor da universidade e a identidade
 
 Nosso objetivo é coletar vídeos de 1000 participantes, contamos com a sua colaboração. O aplicativo está disponível no Google Play (Android) e na Apple Store (iOS)
 
+![](/assets/images/dataset_qr.png)
+
+Baixe agora na [Play Store](https://play.google.com/store/apps/details?id=com.vivacidade_facial_app) ou [Apple Store](https://apps.apple.com/app/id6457022194).
+
 Artigos científicos sobre o projeto:
-**Colocar**
+- Multi-challenge database for active liveness (a ser publicado no SIBGRAPI 2023)
