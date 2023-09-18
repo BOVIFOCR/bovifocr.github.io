@@ -18,11 +18,11 @@ Mais informações sobre o projeto de pesquisa estão nas próximas seções des
 
 A duração do PVA será de 20 horas (5 horas por semana – 1 mês) com certificado emitido pela PROGRAD que poderá ser utilizado como atividade formativa.
 
-É necessário se inscrever preenchendo um formulário (posteriormente um Termo de Adesão deverá ser assinado eletronicamente no SEI) e ao final do PVA preencher o Relatório final.
+É necessário se inscrever preenchendo um [este](https://forms.gle/FZHCL2dttif16ihu6) formulário(posteriormente um Termo de Adesão deverá ser assinado eletronicamente no SEI) e ao final do PVA preencher o Relatório final e enviar os comprovantes de participação por [aqui](https://forms.gle/ZXSLFRyTmJKQfE4v6).
 
 Palestras (slides) sobre o PVA e as atividades burocráticas são realizadas regularmente (nos dias **ALTERAR**) no auditório do Departamento de Informática, sempre das 13:00 até as 13:30 **ALTERAR**.
 A participação na palestra não é obrigatória, temos uma vídeo-aula sobre a palestra gravada e disponível no YouTube.
-Ficamos à disposição para maiores esclarecimentos. ( **EMAIL AQUI** )
+Ficamos à disposição para maiores esclarecimentos pelo email ufpr.liveness@gmail.com .
 
 Cordialmente,
 - Bruno Henrique Kamarowski de Carvalho, Mestrando em Informática
@@ -40,7 +40,7 @@ O aplicativo foi desenvolvido pelos mestrandos Bruno Henrique Kamarowski de Carv
 
 Os vídeos coletados são armazenados em servidor da universidade e a identidade dos participantes não é associada aos dados coletados, zelando pela privacidade dos participantes.
 
-Nosso objetivo é coletar vídeos de **PREENCHER** participantes, contamos com a sua colaboração. O aplicativo está disponível no Google Play (Android) e na Apple Store (iOS)
+Nosso objetivo é coletar vídeos de 1000 participantes, contamos com a sua colaboração. O aplicativo está disponível no Google Play (Android) e na Apple Store (iOS)
 
 Artigos científicos sobre o projeto:
 **Colocar**
