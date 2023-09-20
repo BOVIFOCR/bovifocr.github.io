@@ -27,13 +27,13 @@ Ou ainda é possível escanear os QR Codes:
 
 Para cada indivíduo que participará da coleta, um novo usuário deve ser criado. Para isso, primeiro selecione a opção "Novo usuário" no menu principal.
 
-  <img src="/assets/images/aplicativo/app-menu.png" alt="App Menu" width="25%" height="25%" style="display:block; margin:auto;">
+  <img src="/assets/images/aplicativo/app-menu-new_user.png" alt="App Menu" width="25%" height="25%" style="display:block; margin:auto;">
 
 Em seguida, siga os passos indicados na tela de criação de novo usuário e preencha os campos de Apelido, Sexo e Idade. Depois, leia e aceite o termo de consentimento.
 
   <img src="/assets/images/aplicativo/app-sign_up.png" alt="Sign Up" width="25%" height="25%" style="display:block; margin:auto;">
 
-Com isso, um novo usuário foi criado. A lista de usuários criados pode ser encontrada clicando em "Usuários cadastrados" no menu principal, e um usuário com o mesmo Apelido, preenchido na etapa anterior, estará na lista.
+Com isso, um novo usuário foi criado. A lista de usuários criados pode ser encontrada clicando em "Usuários cadastrados" no menu principal e um usuário com o mesmo Apelido preenchido na etapa anterior estará na lista.
 
   <table>
       <tr>
@@ -42,7 +42,7 @@ Com isso, um novo usuário foi criado. A lista de usuários criados pode ser enc
       </tr>
   </table>
 
-OBS: É importante ressaltar que todos os usuários não são identificáveis, isto é, possível associar as informações enviadas ao seu nome real.
+OBS: É importante ressaltar que todos os usuários criados não são identificáveis, ou seja, não é possível associar as informações enviadas ao seu nome real.
 
 ## Gravando uma Sessão
 
@@ -50,36 +50,36 @@ Com um usuário criado, acesse a sua página de sessões selecionando o usuário
 
 <img src="/assets/images/aplicativo/app-challenges.png" alt="App Challenges" width="25%" height="25%" style="display:block; margin:auto;">
 
-Nesta tela é possível verificar os três desafios que compõem uma sessão: Aproximar e afastar, Posições da Cabeça e Flash.
+Nesta tela é possível verificar os três desafios que compõem uma sessão: Afastar e aproximar, Direções da cabeça e Flash.
 Para finalizar uma sessão é necessário resolver os três desafios e enviar os vídeos.
 A seguir, será explicado o funcionamento de cada um dos desafios.
 
-## Desafio: Aproximar e afastar
+## Desafio: Afastar e aproximar
 
-Clicando em "Gravar Vídeo" logo após o nome do desafio "Aproximar e afastar" você será redirecionado para a tela do desafio.
+Clicando em "Gravar Vídeo" logo após o nome do desafio "Afastar e aproximar" você será redirecionado para a tela do desafio.
 
-Quando estiver pronto, clique no botão "INICIAR" na porção inferior da tela
+Quando estiver pronto, clique no botão "INICIAR" na porção inferior da tela.
 
 <img src="/assets/images/aplicativo/app-start.png" alt="App Start" width="25%" height="25%" style="display:block; margin:auto;">
 
-Primeiro, o usuário deve aproximar seu rosto da tela de modo a encaixar na região destacada na tela.
+Primeiro, o usuário deve afastar seu rosto da tela de modo a encaixar na região destacada na tela.
 Ao encaixar corretamente, o indicador da região muda de cor e você deve permanecer estático por alguns instantes. Uma barra de carregamento indica a progressão nessa etapa.
 
-Em seguida, o usuário deve novamente encaixar o rosto na região da tela, dessa vez afastando o rosto.
-Similarmente, ao encaixar corretamente, o indicador da região muda de cor e você deve permanecer estático por alguns instantes.
+Em seguida, o usuário deve novamente encaixar o rosto na região da tela, dessa vez aproximando o rosto.
+Similarmente, ao encaixar corretamente, o indicador da região muda de cor e você deve permanecer parado por alguns instantes.
 
 <img src="/assets/images/aplicativo/app-close_up.gif" alt="App Close Up" width="25%" height="25%" style="display:block; margin:auto;">
 
-## Desafio: Posições da cabeça
+## Desafio: Direções da cabeça
 
-Clicando em "Gravar Vídeo" logo após o nome do desafio "Posições da cabeça" você será redirecionado para a tela do desafio.
+Clicando em "Gravar Vídeo" logo após o nome do desafio "Direções da cabeça" você será redirecionado para a tela do desafio.
 
-Quando estiver pronto, clique no botão "INICIAR" na porção inferior da tela
+Quando estiver pronto, clique no botão "INICIAR" na porção inferior da tela.
 
 Primeiro, o usuário deve ajustar seu rosto da tela de modo a encaixar na região destacada.
 Ao encaixar corretamente, uma sequência aleatória de poses aparecerá, uma a uma.
 
-Imite a pose que está aparecendo e permaneça parado nela por alguns instantes. Note que ao realizar corretamente a pose uma barra de progresso aparecerá indicando a sua evolução em cada uma das poses.
+Imite a pose que está aparecendo e permaneça parado nela por alguns instantes. Note que ao realizar corretamente a pose uma barra de progresso aparecerá indicando a sua evolução em cada uma passo da sequência.
 
 <img src="/assets/images/aplicativo/app-head_direction.gif" alt="App Head Direction" width="25%" height="25%" style="display:block; margin:auto;">
 
@@ -87,14 +87,14 @@ OBS: Não é necessário inclinar demais a cabeça para nenhuma das posições.
 
 ## Desafio: Flash
 
-Clicando em "Gravar Vídeo" logo após o nome do desafio "Posições da cabeça" você será redirecionado para a tela do desafio.
+Clicando em "Gravar Vídeo" logo após o nome do desafio "Direções da cabeça" você será redirecionado para a tela do desafio.
 
-Quando estiver pronto, clique no botão "INICIAR" na porção inferior da tela
+Quando estiver pronto, clique no botão "INICIAR" na porção inferior da tela.
 
 Primeiro, o usuário deve ajustar seu rosto da tela de modo a encaixar na região destacada.
 Ao encaixar corretamente, uma mensagem solicitando que permaneça parado até a conclusão do desafio aparecerá.
 
-Em seguida, uma sequência aleatória de cores será mostrada na tela. O usuário precisa apenas permanecer parado nesse período.
+Em seguida, uma sequência aleatória de cores será mostrada na tela. O usuário precisa apenas permanecer imóvel nesse período.
 
 <img src="/assets/images/aplicativo/app-flash.gif" alt="App Flash" width="25%" height="25%" style="display:block; margin:auto;">
 
