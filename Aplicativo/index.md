@@ -21,17 +21,17 @@ O aplicativo está disponível nas plataformas App Store e Play Store seguindo o
 
 Ou ainda é possível escanear os QR Codes:
 
-<img src="/assets/images/dataset_qr.png" alt="QR Code" width="100%" style="display:block; margin:auto;">
+<img src="/assets/images/dataset_qr.png" alt="QR Code" width="70%" style="display:block; margin:auto;">
 
 ## Criação de um Usuário
 
 Para cada indivíduo que participará da coleta, um novo usuário deve ser criado. Para isso, primeiro selecione a opção "Novo usuário" no menu principal.
 
-  <img src="/assets/images/aplicativo/app-menu.png" alt="App Menu" width="15%" height="15%" style="display:block; margin:auto;">
+  <img src="/assets/images/aplicativo/app-menu.png" alt="App Menu" width="25%" height="25%" style="display:block; margin:auto;">
 
 Em seguida, siga os passos indicados na tela de criação de novo usuário e preencha os campos de Apelido, Sexo e Idade. Depois, leia e aceite o termo de consentimento.
 
-  <img src="/assets/images/aplicativo/app-sign_up.png" alt="Sign Up" width="15%" height="15%" style="display:block; margin:auto;">
+  <img src="/assets/images/aplicativo/app-sign_up.png" alt="Sign Up" width="25%" height="25%" style="display:block; margin:auto;">
 
 Com isso, um novo usuário foi criado. A lista de usuários criados pode ser encontrada clicando em "Usuários cadastrados" no menu principal, e um usuário com o mesmo Apelido, preenchido na etapa anterior, estará na lista.
 
@@ -48,7 +48,7 @@ OBS: É importante ressaltar que todos os usuários não são identificáveis, i
 
 Com um usuário criado, acesse a sua página de sessões selecionando o usuário alvo na lista de usuários criados ou ao ser redirecionado após criar um usuário.
 
-<img src="/assets/images/aplicativo/app-challenges.png" alt="App Challenges" width="15%" height="15%" style="display:block; margin:auto;">
+<img src="/assets/images/aplicativo/app-challenges.png" alt="App Challenges" width="25%" height="25%" style="display:block; margin:auto;">
 
 Nesta tela é possível verificar os três desafios que compõem uma sessão: Aproximar e afastar, Posições da Cabeça e Flash.
 Para finalizar uma sessão é necessário resolver os três desafios e enviar os vídeos.
@@ -60,7 +60,7 @@ Clicando em "Gravar Vídeo" logo após o nome do desafio "Aproximar e afastar" v
 
 Quando estiver pronto, clique no botão "INICIAR" na porção inferior da tela
 
-<img src="/assets/images/aplicativo/app-start.png" alt="App Start" width="15%" height="15%" style="display:block; margin:auto;">
+<img src="/assets/images/aplicativo/app-start.png" alt="App Start" width="25%" height="25%" style="display:block; margin:auto;">
 
 Primeiro, o usuário deve aproximar seu rosto da tela de modo a encaixar na região destacada na tela.
 Ao encaixar corretamente, o indicador da região muda de cor e você deve permanecer estático por alguns instantes. Uma barra de carregamento indica a progressão nessa etapa.
@@ -68,7 +68,7 @@ Ao encaixar corretamente, o indicador da região muda de cor e você deve perman
 Em seguida, o usuário deve novamente encaixar o rosto na região da tela, dessa vez afastando o rosto.
 Similarmente, ao encaixar corretamente, o indicador da região muda de cor e você deve permanecer estático por alguns instantes.
 
-<img src="/assets/images/aplicativo/app-close_up.gif" alt="App Close Up" width="15%" height="15%" style="display:block; margin:auto;">
+<img src="/assets/images/aplicativo/app-close_up.gif" alt="App Close Up" width="25%" height="25%" style="display:block; margin:auto;">
 
 ## Desafio: Posições da cabeça
 
@@ -81,7 +81,7 @@ Ao encaixar corretamente, uma sequência aleatória de poses aparecerá, uma a u
 
 Imite a pose que está aparecendo e permaneça parado nela por alguns instantes. Note que ao realizar corretamente a pose uma barra de progresso aparecerá indicando a sua evolução em cada uma das poses.
 
-<img src="/assets/images/aplicativo/app-head_direction.gif" alt="App Head Direction" width="15%" height="15%" style="display:block; margin:auto;">
+<img src="/assets/images/aplicativo/app-head_direction.gif" alt="App Head Direction" width="25%" height="25%" style="display:block; margin:auto;">
 
 OBS: Não é necessário inclinar demais a cabeça para nenhuma das posições.
 
@@ -96,7 +96,7 @@ Ao encaixar corretamente, uma mensagem solicitando que permaneça parado até a 
 
 Em seguida, uma sequência aleatória de cores será mostrada na tela. O usuário precisa apenas permanecer parado nesse período.
 
-<img src="/assets/images/aplicativo/app-flash.gif" alt="App Flash" width="15%" height="15%" style="display:block; margin:auto;">
+<img src="/assets/images/aplicativo/app-flash.gif" alt="App Flash" width="25%" height="25%" style="display:block; margin:auto;">
 
 ## Considerações gerais dos desafios
 
@@ -107,7 +107,7 @@ Segue uma lista de considerações e recomendações a serem levadas em conta ao
 - Não é necessário a remoção de adereços como: óculos, chapéu, gorro, brincos, piercings, entre outros.
 - É normal que o usuário falhe em algum desafio. Uma notificação explicando o motivo aparecerá na tela de sessão do usuário. A imagem a seguir exemplifica isso:
 
-<img src="/assets/images/aplicativo/app-challenge_failed.png" alt="App Challenge Failed" width="15%" height="15%" style="display:block; margin:auto;">
+<img src="/assets/images/aplicativo/app-challenge_failed.png" alt="App Challenge Failed" width="25%" height="25%" style="display:block; margin:auto;">
 
 Nesses casos, basta tentar realizar o desafio novamente, seguindo as orientações da notificação!
 
