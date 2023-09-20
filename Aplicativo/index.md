@@ -5,7 +5,7 @@ layout: home
 
 # 🚧 Página em Construção
 
-<img src="/assets/images/aplicativo/app-header.png" alt="App Menu" width="50%" height="50%">
+<img src="/assets/images/aplicativo/app-header.png" alt="App Menu" width="100%">
 
 # Aplicativo
 UFPR - Vivacidade Facial
@@ -21,15 +21,26 @@ O aplicativo está disponível nas plataformas App Store e Play Store seguindo o
 
 Ou ainda é possível escanear os QR Codes:
 
-<img src="/assets/images/dataset_qr.png" alt="QR Code" width="50%" height="50%" style="display:block; margin:auto;">
+<img src="/assets/images/dataset_qr.png" alt="QR Code" width="100%" style="display:block; margin:auto;">
 
 ## Criação de um Usuário
 
 Para cada indivíduo que participará da coleta, um novo usuário deve ser criado. Para isso, primeiro selecione a opção "Novo usuário" no menu principal.
 
+  <img src="/assets/images/aplicativo/app-menu.png" alt="App Menu" width="15%" height="15%" style="display:block; margin:auto;">
+
 Em seguida, siga os passos indicados na tela de criação de novo usuário e preencha os campos de Apelido, Sexo e Idade. Depois, leia e aceite o termo de consentimento.
 
+  <img src="/assets/images/aplicativo/app-sign_up.png" alt="Sign Up" width="15%" height="15%" style="display:block; margin:auto;">
+
 Com isso, um novo usuário foi criado. A lista de usuários criados pode ser encontrada clicando em "Usuários cadastrados" no menu principal, e um usuário com o mesmo Apelido, preenchido na etapa anterior, estará na lista.
+
+  <table>
+      <tr>
+          <td><img src="/assets/images/aplicativo/app-menu-user_list.png" alt="App Menu User List" width="50%" height="50%" style="display:block; margin:auto;"></td>
+          <td><img src="/assets/images/aplicativo/app-user_list.png" alt="App User List" width="50%" height="50%" style="display:block; margin:auto;"></td>
+      </tr>
+  </table>
 
 OBS: É importante ressaltar que todos os usuários não são identificáveis, isto é, possível associar as informações enviadas ao seu nome real.
 
