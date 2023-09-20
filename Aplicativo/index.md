@@ -21,7 +21,7 @@ O aplicativo está disponível nas plataformas App Store e Play Store seguindo o
 
 Ou ainda é possível escanear os QR Codes:
 
-<img src="/assets/images/dataset_qr.png" alt="QR Code" width="15%" height="15%" style="display:block; margin:auto;">
+<img src="/assets/images/dataset_qr.png" alt="QR Code" width="50%" height="50%" style="display:block; margin:auto;">
 
 ## Criação de um Usuário
 
