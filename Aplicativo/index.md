@@ -2,9 +2,6 @@
 title: Aplicativo
 layout: home
 ---
-
-# 🚧 Página em Construção
-
 <img src="/assets/images/aplicativo/app-header.png" alt="App Menu" width="100%">
 
 # Aplicativo
