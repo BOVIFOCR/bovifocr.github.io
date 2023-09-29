@@ -13,7 +13,7 @@ Esta página é dedicada a explicar como utilizar o aplicativo UFPR - Vivacidade
 
 O aplicativo está disponível nas plataformas App Store e Play Store seguindo os links:
 
-- [Play Store](https://play.google.com/store/apps/details?id=com.vivacidade_facial_app)
+- [Play Store](https://play.google.com/store/apps/details?id=com.ufpr_vivacidade_facial)
 - [App Store](https://apps.apple.com/app/id6457022194)
 
 Ou ainda é possível escanear os QR Codes:
