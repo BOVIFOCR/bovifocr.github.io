@@ -134,3 +134,8 @@ Após enviar as duas sessões, um comprovante da sua participação na coleta se
 Estudantes que estiverem participando do [Programa de Voluntariado Acadêmico](https://bovifocr.github.io/dataset/) podem tirar um screenshot desse comprovante para reportar a sua progressão.
 
 Contamos com a sua participação!
+
+
+## Contato
+
+Em caso de dúvidas ou sugestões, mande um email com suas perguntas e orietações para : ufpr.liveness@gmail.com
