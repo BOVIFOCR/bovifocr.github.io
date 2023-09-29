@@ -20,8 +20,8 @@ A duração do PVA será de 20 horas (5 horas por semana – 1 mês) com certifi
 
 É necessário se inscrever preenchendo um [este](https://forms.gle/FZHCL2dttif16ihu6) formulário(posteriormente um Termo de Adesão deverá ser assinado eletronicamente no SEI) e ao final do PVA preencher o [Relatório final](https://forms.gle/GmX27pbTmMLSDc3s5) e enviar os comprovantes de participação por [aqui](https://forms.gle/ZXSLFRyTmJKQfE4v6).
 
-Palestras (slides) sobre o PVA e as atividades burocráticas são realizadas regularmente (nos dias **ALTERAR**) no auditório do Departamento de Informática, sempre das 13:00 até as 13:30 **ALTERAR**.
-A participação na palestra não é obrigatória, temos uma vídeo-aula sobre a palestra gravada e disponível no YouTube.
+Palestras (slides) sobre o PVA e as atividades burocráticas são realizadas regularmente (nos dias a serem definidos) no auditório do Departamento de Informática, sempre das 13:00 até as 13:30.
+A participação na palestra não é obrigatória, temos uma vídeo-aula sobre a palestra gravada e disponível no [YouTube](https://youtu.be/OxE03i6psqo).
 Ficamos à disposição para maiores esclarecimentos pelo email ufpr.liveness@gmail.com .
 
 Cordialmente,
