@@ -47,4 +47,4 @@ Nosso objetivo é coletar vídeos de 1000 participantes, contamos com a sua cola
 Baixe agora na [Play Store](https://play.google.com/store/apps/details?id=com.ufpr_vivacidade_facial) ou [Apple Store](https://apps.apple.com/app/id6457022194).
 
 Artigos científicos sobre o projeto:
-- Multi-challenge database for active liveness (a ser publicado no SIBGRAPI 2023)
+- [Multi-challenge database for active liveness](/assets/papers/2023_SIBGRAPI_WIP_Multi_challenge_database_for_active_liveness-final.pdf) (a ser publicado no SIBGRAPI 2023)
