@@ -46,4 +46,8 @@ Nosso objetivo é coletar vídeos de 1000 participantes, contamos com a sua cola
 Baixe agora na [Play Store](https://play.google.com/store/apps/details?id=com.ufpr_vivacidade_facial) ou [Apple Store](https://apps.apple.com/app/id6457022194).
 
 Artigos científicos sobre o projeto:
-<a href="https://bovifocr.github.io/assets/papers/2023_SIBGRAPI_WIP_Multi_challenge_database_for_active_liveness-final.pdf" target="_blank">B. H. Kamarowski, R. G. P. de Almeida, B. J. G. Biesseck, D. Menotti, "Multi-challenge database for active liveness", Works in progress in Conference on Graphics, Patterns and Images (SIBGRAPI), 2023</a>
+<ul>
+	
+<li>[<a href="https://bovifocr.github.io/assets/images/papers/2023_SIBGRAPI_WIP_Multi_challenge_database_for_active_liveness-final.pdf" target="_blank" rel="noopener noreferrer">pdf</a>] B. H. Kamarowski,&nbsp; R. G. P. de Almeida,&nbsp; B. J. G. Biesseck,&nbsp; D. Menotti,&nbsp;<em><a> “Multi-challenge database for active liveness”</a></em>&nbsp;, Works in progress in Conference on Graphics,&nbsp; Patterns and Images (SIBGRAPI),&nbsp; 2023&nbsp;.</li>
+
+</ul>
