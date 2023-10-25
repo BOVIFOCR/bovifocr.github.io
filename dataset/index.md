@@ -3,7 +3,6 @@ title: Dataset
 layout: home
 ---
 
-🚧 página em construção
 # UFPR - Vivacidade - PVA
 Vetores de Multiplicação de Pesquisa
 Vivacidade Facial UFPR
@@ -47,4 +46,4 @@ Nosso objetivo é coletar vídeos de 1000 participantes, contamos com a sua cola
 Baixe agora na [Play Store](https://play.google.com/store/apps/details?id=com.ufpr_vivacidade_facial) ou [Apple Store](https://apps.apple.com/app/id6457022194).
 
 Artigos científicos sobre o projeto:
-- [Multi-challenge database for active liveness](/assets/papers/2023_SIBGRAPI_WIP_Multi_challenge_database_for_active_liveness-final.pdf) (a ser publicado no SIBGRAPI 2023)
+<a href="https://bovifocr.github.io/assets/papers/2023_SIBGRAPI_WIP_Multi_challenge_database_for_active_liveness-final.pdf" target="_blank">B. H. Kamarowski, R. G. P. de Almeida, B. J. G. Biesseck, D. Menotti, "Multi-challenge database for active liveness", Works in progress in Conference on Graphics, Patterns and Images (SIBGRAPI), 2023</a>
